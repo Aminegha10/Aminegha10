@@ -9,7 +9,7 @@
 
 <!--Night Owl image-->
 <div margin-top="80px">
-  <img align="right" width="40%" src="https://pbs.twimg.com/media/F8PlLPCboAABB8v.jpg">
+  <img align="right" width="40%" src="./F8PlLPCboAABB8v-Photoroom.png">
 </div>
 
 
