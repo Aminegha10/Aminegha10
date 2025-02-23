@@ -1,10 +1,7 @@
-<!--Banner-->
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c77a4fe5-918e-4b08-8832-7bfcda31b8c7/dh1r7np-6ee63072-2764-48c5-9217-8e7c82b303ff.jpg/v1/fill/w_894,h_894,q_70,strp/goku_is_typing_in_front_of_the_computer_by_zennida_dh1r7np-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2M3N2E0ZmU1LTkxOGUtNGIwOC04ODMyLTdiZmNkYTMxYjhjN1wvZGgxcjducC02ZWU2MzA3Mi0yNzY0LTQ4YzUtOTIxNy04ZTdjODJiMzAzZmYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zXXk87wlfOoO5yx-d0gzMjQP8Hn_z-rBNs1dQBzsfUI" 
-       width="100%" 
-       height="200" 
-       style="object-fit: cover;" />
-</p>
+<div style="text-align: center;">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c77a4fe5-918e-4b08-8832-7bfcda31b8c7/dh1r7np-6ee63072-2764-48c5-9217-8e7c82b303ff.jpg/v1/fill/w_894,h_894,q_70,strp/goku_is_typing_in_front_of_the_computer_by_zennida_dh1r7np-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2M3N2E0ZmU1LTkxOGUtNGIwOC04ODMyLTdiZmNkYTMxYjhjN1wvZGgxcjducC02ZWU2MzA3Mi0yNzY0LTQ4YzUtOTIxNy04ZTdjODJiMzAzZmYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zXXk87wlfOoO5yx-d0gzMjQP8Hn_z-rBNs1dQBzsfUI" width="100%" height="200" style="object-fit: cover;"/>
+</div>
+
 
 
 <!--Night Owl image-->
@@ -16,21 +13,37 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> ɪ'ᴍ ʍᴏʜᴀᴍᴇᴅ ᴀᴍɪɴᴇ! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+👋 Hello!
+✨ I'm a dynamic Full Stack Developer and an enthusiastic IT student, fueled by a passion for coding and innovation.
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+💻 Coding Languages I'm Enthusiastic About:
+
+JavaScript
+
+PHP
+
+Java
+
+🌟 My Journey:
+I love exploring the realms of technology, bringing ideas to life through code.
+
+🚀 Exciting Projects:
+
+Sleek e-commerce platforms
+Captivating movie applications
+Seamless reservation systems
+
+🌐 Each project, hosted on Vercel, showcases my dedication to creating user-friendly experiences.
+
+- ✨ Forever a student of life, I thrive on learning new skills and embracing challenges.
+- 💻 Dive into my [Portfolio](https://kiran1689.github.io) to see my work and the magic I've created.
 <!--End Intro-->
+
 
 <!--Profile Count Badge-->
 <p align="left">
