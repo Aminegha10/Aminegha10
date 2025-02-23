@@ -8,7 +8,7 @@
 
 
 <!--Night Owl image-->
-<div style="padding-top: 20px;">
+<div margin-top="80px">
   <img align="right" width="40%" src="https://pbs.twimg.com/media/F8PlLPCboAABB8v.jpg">
 </div>
 
