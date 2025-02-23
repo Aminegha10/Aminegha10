@@ -97,7 +97,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="aminogha@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
@@ -109,7 +109,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="www.linkedin.com/in/aminegha" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
