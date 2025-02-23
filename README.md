@@ -8,9 +8,11 @@
 
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://pbs.twimg.com/media/F8PlLPCboAABB8v.jpg" style="margin-top: 20px;">
+<div style="padding-top: 20px;">
+  <img align="right" width="40%" src="https://pbs.twimg.com/media/F8PlLPCboAABB8v.jpg">
 </div>
+
+
 
 
 <!--Header Name-->
