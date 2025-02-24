@@ -23,9 +23,7 @@
 💻 Coding Languages I'm Enthusiastic About:
 
 JavaScript
-
 PHP
-
 Java
 
 🌟 My Journey:
