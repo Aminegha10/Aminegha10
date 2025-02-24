@@ -38,7 +38,7 @@ Seamless reservation systems
 🌐 Each project, hosted on Vercel, showcases my dedication to creating user-friendly experiences.
 
 - ✨ Forever a student of life, I thrive on learning new skills and embracing challenges.
-- 💻 Dive into my [Portfolio](https://kiran1689.github.io) to see my work and the magic I've created.
+<!-- 💻 Dive into my [Portfolio](https://kiran1689.github.io) to see my work and the magic I've created.-->
 <!--End Intro-->
 
 
@@ -68,9 +68,9 @@ Seamless reservation systems
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/debug-like-a-pro-in-2025-3lg1">😎Debug Like a Pro in 2025🧑‍💻</a></li>
-  <li><a href="https://dev.to/dev_kiran/open-source-hidden-gems-v2-4e8j">✨Open-Source Hidden Gems v2🤯</a></li>
-  <li><a href="https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469">🫵You Should Try These Tools In Your Next Project</a></li>
+  <li><a href="https://movies-app-eta-hazel.vercel.app/">😎MoviesApp🧑‍💻</a></li>
+  <li><a href="https://reservatiionappfront.vercel.app/">✨ReservationApp🤯</a></li>
+  <li><a href="https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469">🫵LifeStyle Ecommerce Project OSAY</a></li>
 </ul>
 <br />
 <br />
