@@ -76,9 +76,10 @@ Seamless reservation systems
 
 <!--Latest Projects-->       
 <div >
+  <br/>
+  
 <h2 align="center">Lᴀᴛᴇsᴛ Projects</h2> 
     <a href="https://movies-app-eta-hazel.vercel.app/"><img src="MoviesLogo.png" width="30px" padding-bottom="20px" padding-right="5px" align="center"/>MoviesApp</a>
-  <br/>
       <img src="MoviesApp.png" />
  <a href="https://reservatiionappfront.vercel.app/"><img src="FacilLogo.png" width="30px" padding-right="5px" align="center"/>ReservationApp</a>
         <img src="ReservationApp.png" />
