@@ -65,17 +65,29 @@ Seamless reservation systems
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-  
-<h3 align="left">Latest Projects</h3>
-<ul align="left">
-  <li><a href="https://movies-app-eta-hazel.vercel.app/">😎MoviesApp🧑‍💻</a></li>
-  <li><a href="https://reservatiionappfront.vercel.app/">✨ReservationApp🤯</a></li>
-  <li><a href="https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469">🫵LifeStyle Ecommerce Project OSAY</a></li>
-</ul>
 <br />
+<br/>
 <br />
-<br />
-<br />
+<br/><br />
+<br/><br />
+<br/>
+<br/>
+
+
+<!--Latest Projects-->       
+<div >
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Projects</h2> 
+    <a href="https://movies-app-eta-hazel.vercel.app/">😎MoviesApp🧑‍💻</a>
+      <img src="MoviesApp.png" />
+ <a href="https://reservatiionappfront.vercel.app/">✨ReservationApp🤯</a>
+        <img src="ReservationApp.png" />
+    <a href="https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469">🫵LifeStyle Ecommerce Project OSAY</a>
+</div>
+ <br />
+  <br />
+  <br />
+  <br />
+
 
 ---
 
