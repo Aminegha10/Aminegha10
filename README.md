@@ -84,7 +84,7 @@ Seamless reservation systems
  <a href="https://reservatiionappfront.vercel.app/"><img src="FacilLogo.png" width="30px" padding-right="5px" align="center"/>ReservationApp</a>
         <img src="ReservationApp.png" />
   <a href="https://spicy-bites-app.vercel.app/"><img src="chili-pepper.png" width="30px" padding-right="5px" align="center"/>SpicyBitesApp</a>
-<a>  <img src="SpicyBites.png" /> </a>
+    <a href="https://spicy-bites-app.vercel.app">  <img src="SpicyBites.png" /> </a>
 </div>
  <br />
   <br />
