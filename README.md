@@ -51,7 +51,7 @@ Seamless reservation systems
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Projects</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Current Learning</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -76,7 +76,7 @@ Seamless reservation systems
 
 <!--Latest Projects-->       
 <div >
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Projects</h2> 
+<h2 align="center">Lᴀᴛᴇsᴛ Projects</h2> 
     <a href="https://movies-app-eta-hazel.vercel.app/">😎MoviesApp🧑‍💻</a>
       <img src="MoviesApp.png" />
  <a href="https://reservatiionappfront.vercel.app/">✨ReservationApp🤯</a>
