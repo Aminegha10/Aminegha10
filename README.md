@@ -81,7 +81,8 @@ Seamless reservation systems
       <img src="MoviesApp.png" />
  <a href="https://reservatiionappfront.vercel.app/">✨ReservationApp🤯</a>
         <img src="ReservationApp.png" />
-    <a href="https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469">🫵LifeStyle Ecommerce Project OSAY</a>
+  <a href="https://spicy-bites-app.vercel.app/"><img src="chili-pepper.png" width="30px" padding-right="5px" align="center"/>SpicyBitesApp</a>
+        <img src="SpicyBites.png" />
 </div>
  <br />
   <br />
