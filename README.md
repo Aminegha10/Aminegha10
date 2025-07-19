@@ -82,6 +82,8 @@ Seamless reservation systems
       <img src="MoviesApp.png" />
  <a href="https://reservatiionappfront.vercel.app/"><img src="FacilLogo.png" width="30px" padding-right="5px" align="center"/>ReservationApp</a>
         <img src="ReservationApp.png" />
+ <a href="https://movies-app-eta-hazel.vercel.app/"><img src="MoviesLogo.png" width="30px" padding-bottom="20px" padding-right="5px" align="center"/>MoviesApp</a>
+      <img src="AICHAT.png" />
   <a href="https://spicy-bites-app.vercel.app/"><img src="chili-pepper.png" width="30px" padding-right="5px" align="center"/>SpicyBitesApp</a>
     <a href="https://spicy-bites-app.vercel.app">  <img src="SpicyBites.png" /> </a>
 </div>
